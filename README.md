@@ -7,7 +7,7 @@
 
 比原链区块浏览器调用比原链官网提供的区块浏览器接口
 
-（https://blockmeta.com/api/v2）
+[api v2](https://blockmeta.com/api/v2)
 
 主要实现了
 
@@ -33,7 +33,7 @@
 
 7. 比原周期、月份价格涨跌图表；
 
-[http://bytom_explorer.tyin.top/](在线地址)
+[在线地址](http://bytom_explorer.tyin.top/)
 
 
 ## 未来开发需求
